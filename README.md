@@ -6,7 +6,9 @@ grupo formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabriela
 
 
 
-### Análise Exploratória de Dados: Projeto aplicado
+### Análise Exploratória de Dados
+### Projeto aplicado
+
 ##### Instruções
 É hora de colocar em prática tudo o que vimos na disciplina!
 - Lembre-se que em um projeto de análise exploratória de dados, você está
