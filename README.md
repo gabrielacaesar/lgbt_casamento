@@ -42,7 +42,7 @@ utilizado.
 - [Neste link](https://norcalbiostat.netlify.app/data/) você tem a relação de conjuntos de dados que podemos usar
 - Se seu grupo já possui outro conjunto de dados, me mande um resumo sobre ele
 para que eu aprove a utilização
-- Sugestão de datasets:
+Sugestão de datasets:
 - Depressão: nível de depressão, cuidado a saúde e características demográficas
 - High School: educação, vocação, desenvolvimento pessoal
 - Police Shootings: características de pessoas mortas pela polícia
