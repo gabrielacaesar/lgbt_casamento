@@ -23,7 +23,7 @@ hipóteses a partir da análise dos dados
 ##### Nossas atividades
 Utilizando um conjunto de dados de sua escolha, descreva o relacionamento
 entre 2 ou 3 variáveis.
-- Produza um relatório de modo a conter, no mínimo:
+Produza um relatório de modo a conter, no mínimo:
 - Uma introdução curta sobre os dados
 >> Mencione quais variáveis você vai querer investigar o relacionamento
 - Uma seção de análise exploratória univariada
@@ -38,7 +38,7 @@ compreender a relação entre as variáveis selecionadas.
 ##### Dados que serão utilizados
 Você e seu grupo precisarão fazer uma escolha sobre o conjunto de dados a ser
 utilizado.
-- Neste link você tem a relação de conjuntos de dados que podemos usar
+- [Neste link](https://norcalbiostat.netlify.app/data/) você tem a relação de conjuntos de dados que podemos usar
 - Se seu grupo já possui outro conjunto de dados, me mande um resumo sobre ele
 para que eu aprove a utilização
 - Sugestão de datasets:
