@@ -11,7 +11,7 @@ grupo formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabriela
 
 ##### Instruções
 É hora de colocar em prática tudo o que vimos na disciplina!
-- Lembre-se que em um projeto de análise exploratória de dados, você está
+- Lembre-se de que em um projeto de análise exploratória de dados, você está
 explorando os dados e estabelecendo questionamentos sobre estes e as
 possíveis relações entre as variáveis.
 - Não é uma análise estatística formal (por exemplo, não há a necessidade de
