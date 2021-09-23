@@ -8,6 +8,7 @@ grupo formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabriela
 
 ### Análise Exploratória de Dados
 ### Projeto aplicado
+#### Prof. André Filipe de Moraes Batista, PhD.
 
 ##### Instruções
 É hora de colocar em prática tudo o que vimos na disciplina!
