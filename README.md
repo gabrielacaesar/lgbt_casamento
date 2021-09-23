@@ -30,7 +30,7 @@ entre 2 ou 3 variáveis.
 >> Nesta seção você vai calcular estatísticas descritivas básicas (média,
 mediana, quartis, etc..) e faça ao menos um gráfico
 - Uma seção de análise exploratória bivariada
->> Calcule estatísticas agrupadas por meio de uma variável
+>> Calcule estatísticas agrupadas por meio de uma variável        
 >> Elabore gráficos que demonstrem a relação entre variáveis
 - Em resumo: usando estatística e gráficos, elabore o que julgar pertinente para
 compreender a relação entre as variáveis selecionadas.
