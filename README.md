@@ -11,7 +11,7 @@ Assim, poderemos fazer uma análise exploratória de dados completa e responder 
 O IBGE fornece os dados em diversas planilhas XLSX desorganizadas.
 Essas planilhas originais estão disponíveis [neste site do IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/9110-estatisticas-do-registro-civil.html?=&t=downloads) e também na [pasta ``data > raw_data``](https://github.com/gabrielacaesar/lgbt_casamento/tree/main/data/raw_data) deste repositório. 
 
-Utilizamos um [código em R](https://github.com/gabrielacaesar/lgbt_casamento/tree/main/data/raw_data/r_script) para transformar os dados em formato tidy e ter um único CSV completo. A análise usará esse CSV.
+Utilizamos um [código em R](https://github.com/gabrielacaesar/lgbt_casamento/tree/main/data/raw_data/r_script) para transformar os dados em formato tidy e ter um único CSV completo. A análise usará esse arquivo.
 
 ### Análise Exploratória de Dados
 ### Projeto aplicado
