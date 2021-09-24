@@ -1,6 +1,6 @@
 # Casamento LGBT no Brasil e no mundo
 
-Este repositório contém o projeto final da disciplina "análise exploratória de dados", no Master em jornalismo dados, automação e data storytelling do Insper
+Este repositório contém o projeto final da disciplina "Análise exploratória de dados", no Master em jornalismo dados, automação e data storytelling do Insper
 
 O grupo é formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabrielacaesar)), Isabela Fleischmann ([@isabelafleischmann](https://github.com/isabelafleischmann)) e Thiago Araújo ([@todearaujo](https://github.com/todearaujo)).
 
