@@ -1,6 +1,8 @@
 # Casamento LGBT no Brasil e no mundo
 
-Grupo formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabrielacaesar)), Isabela Fleischmann ([@isabelafleischmann](https://github.com/isabelafleischmann)) e Thiago Araújo ([@todearaujo](https://github.com/todearaujo)).
+Este repositório contém o projeto final da disciplina "análise exploratória de dados", no Master em jornalismo dados, automação e data storytelling do Insper
+
+O grupo é formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabrielacaesar)), Isabela Fleischmann ([@isabelafleischmann](https://github.com/isabelafleischmann)) e Thiago Araújo ([@todearaujo](https://github.com/todearaujo)).
 
 A base de dados analisada pelo grupo é fornecida pelo IBGE e trata do casamento de pessoas do mesmo gênero.
 Ou seja, de casamento de homens com homens e de mulheres com mulheres.
