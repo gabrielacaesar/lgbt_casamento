@@ -27,7 +27,7 @@ tidy_df <- untidy_xlsx %>%
                             TRUE ~ genero)) %>%
   janitor::row_to_names(1) %>%
   rename(uf = "Lugar do registro",
-         Total = "Total\r\nde\r\nregistros",
+         Total = "Total\r\nde\r\nregistros", #cabecalho sofre leves alteracoes nos anos
          Novembro = "Novem-\r\nbro",
          Dezembro = "Dezem-\r\nbro") %>%
   filter(uf %in% uf_brasil) %>%
