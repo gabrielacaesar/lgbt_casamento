@@ -6,6 +6,7 @@ A base de dados analisada pelo grupo é fornecida pelo IBGE e trata do casamento
 Ou seja, de casamento de homens com homens e de mulheres com mulheres.
 
 Os dados estão desagregados por UF, mês e gênero e abrangem os anos de 2013 a 2019.
+[Clique aqui](https://github.com/gabrielacaesar/lgbt_casamento/blob/main/data/lgbt_casamento.csv) para ler e baixar o arquivo.
 Assim, poderemos fazer uma análise exploratória de dados completa e responder às perguntas de interesse.
 
 O IBGE fornece os dados em diversas planilhas XLSX desorganizadas.
