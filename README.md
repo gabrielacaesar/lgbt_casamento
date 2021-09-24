@@ -2,10 +2,15 @@
 
 Grupo formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabrielacaesar)), Isabela Fleischmann ([@isabelafleischmann](https://github.com/isabelafleischmann)) e Thiago Araújo ([@todearaujo](https://github.com/todearaujo)).
 
-A base de dados analisada pelo grupo é do IBGE e trata do casamento de pessoas do mesmo gênero.
+A base de dados analisada pelo grupo é fornecida pelo IBGE e trata do casamento de pessoas do mesmo gênero.
+Ou seja, de casamento de homens com homens e de mulheres com mulheres.
+
 Os dados estão desagregados por UF, mês e gênero e abrangem os anos de 2013 a 2019.
+Assim, poderemos fazer uma análise exploratória de dados completa e responder às perguntas de interesse.
 
-
+As planilhas originais estão disponíveis [neste site do IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao/9110-estatisticas-do-registro-civil.html?=&t=downloads) e também [na pasta ``data > raw_data``](https://github.com/gabrielacaesar/lgbt_casamento/tree/main/data/raw_data) deste repositório. 
+Porém, o IBGE fornece os dados em diversas planilhas XLSX desorganizadas.
+Utilizamos um código em R para transformar os dados em formato tidy e ter um único CSV completo.
 
 ### Análise Exploratória de Dados
 ### Projeto aplicado
