@@ -54,4 +54,4 @@ lgbt_casamento <- list.files(pattern = "*csv") %>%
   set_names() %>%
   map_df(read_csv)
 
-write.csv(lgbt_casamento, "lgbt_casamento.csv")
+write.csv(lgbt_casamento, "lgbt_casamento.csv", row.names = F)
