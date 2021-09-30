@@ -69,3 +69,12 @@ principais destaques do trabalho.
 - Sugestão/Provocação: como você apresentaria os resultados na figura de um
 jornalista de dados?
 - A entrega será via blackboard
+
+##### Instruções para o projeto
+- Cada grupo terá até 10 minutos para apresentar o projeto na próxima aula      
+- Busquem contextualizar o problema, os dados e contar como foi o processo de
+análise de dados      
+- Não há a necessidade de mostrar códigos ou detalhes, o importante é transmitir
+uma mensagem clara e efetiva sobre o que vocês aprenderam sobre os dados      
+- Tentem expor o que essas abordagens acrescentaram (ou não!) em seus
+métodos       
