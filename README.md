@@ -5,7 +5,7 @@ Este repositório contém o projeto final da disciplina "Análise exploratória 
 O grupo é formado por Gabriela Caesar ([@gabrielacaesar](https://github.com/gabrielacaesar)), Isabela Fleischmann ([@isabelafleischmann](https://github.com/isabelafleischmann)) e Thiago Araújo ([@todearaujo](https://github.com/todearaujo)).
 
 A base de dados analisada pelo grupo é fornecida pelo IBGE e trata do casamento de pessoas do mesmo gênero.
-Ou seja, de casamento de homens com homens e de mulheres com mulheres.
+Ou seja, do casamento de homens com homens e de mulheres com mulheres.
 
 Os dados estão desagregados por UF, mês e gênero e abrangem os anos de 2013 a 2019. Assim, poderemos fazer uma análise exploratória de dados completa e responder às perguntas de interesse.                   
 
