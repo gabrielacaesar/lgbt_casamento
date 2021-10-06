@@ -18,7 +18,7 @@ Utilizamos um [código em R](https://github.com/gabrielacaesar/lgbt_casamento/bl
 
 Também fizemos isso para [padronizar os dados do IBGE](https://github.com/gabrielacaesar/lgbt_casamento/blob/main/data/raw_data/r_script/tidy_pop_ibge.R) sobre [população adulta por gênero e ano](https://github.com/gabrielacaesar/lgbt_casamento/blob/main/data/pop_adulta.csv).
 
-#### Contexto do assunto
+### Contexto do assunto
 O Brasil tem [mais de 60 mil casais formados por pessoas do mesmo gênero](http://g1.globo.com/brasil/noticia/2011/04/censo-2010-contabiliza-mais-de-60-mil-casais-homossexuais.html), segundo o Censo 2010 - o último realizado no Brasil e divulgado em 2011. Esse número é bastante menor que o de casais formados por pessoas de gêneros diferentes: 37,5 milhões. 
 
 Mais de dez anos se passaram. E como está essa situação hoje no Brasil? É inegável que, ao caminhar na Avenida Paulista, em São Paulo, em 2021, vemos mais casais LGBTs do que há 10 anos. O sentimento é que mais pessoas puderam viver histórias homoafetivas nas grandes cidades. Mas será que isso vale para todo o Brasil? E será que a eleição de Jair Bolsonaro impactou esses números?
@@ -29,7 +29,7 @@ A orientação sexual é uma informação pessoal e, por isso, há poucos dados 
 
 A base de dados do IBGE, porém, é uma exceção positiva nesse levantamento. Além de ter dados oficiais do Brasil, ela também tem um detalhamento que permite uma ampla análise exploratória para responder a perguntas.
 
-##### Perguntas a que queremos responder
+### Perguntas a que queremos responder
 1.   Quantos casamentos homoafetivos ocorreram no Brasil de 2013 a 2019?
 2.   Qual foi o ano com mais casamentos? E com menos casamento?
 3.   Quais foram as estatísticas básicas anuais? E em 2018?
@@ -43,7 +43,7 @@ A base de dados do IBGE, porém, é uma exceção positiva nesse levantamento. A
 11.   Em um mapa do Brasil, como ficam as taxas de casamentos LGBTS por 100 mil adultos?
 12.  Considerando a UF e o ano informados pelo usuário, quais são as estatísticas básicas dessa UF e desse ano quanto ao casamento LGBT?
 
-#### O que aprendemos com os dados
+### O que aprendemos com os dados
 1.   Mais de 40 mil casamentos homoafetivos foram realizados de 2013 a 2019
 2.  As mulheres definitivamente se casam mais do que os homens
 3.  2014 foi o ano em que o número de casamentos de homens quase ultrapassou o de mulheres
