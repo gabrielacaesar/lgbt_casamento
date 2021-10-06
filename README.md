@@ -21,7 +21,9 @@ Também fizemos isso para [padronizar os dados do IBGE](https://github.com/gabri
 ### Contexto do assunto
 O Brasil tem [mais de 60 mil casais formados por pessoas do mesmo gênero](http://g1.globo.com/brasil/noticia/2011/04/censo-2010-contabiliza-mais-de-60-mil-casais-homossexuais.html), segundo o Censo 2010 - o último realizado no Brasil e divulgado em 2011. Esse número é bastante menor que o de casais formados por pessoas de gêneros diferentes: 37,5 milhões. 
 
-Mais de dez anos se passaram. E como está essa situação hoje no Brasil? É inegável que, ao caminhar na Avenida Paulista, em São Paulo, em 2021, vemos mais casais LGBTs do que há 10 anos. O sentimento é que mais pessoas puderam viver histórias homoafetivas nas grandes cidades. Mas será que isso vale para todo o Brasil? E será que a eleição de Jair Bolsonaro impactou esses números?
+Mais de dez anos se passaram. E como está essa situação hoje no Brasil? É inegável que, ao caminhar na Avenida Paulista, em São Paulo, em 2021, vemos mais casais LGBTs do que há 10 anos. 
+
+O sentimento é que mais pessoas puderam viver histórias homoafetivas nas grandes cidades. Mas será que isso vale para todo o Brasil? E será que a eleição de Jair Bolsonaro impactou esses números?
 
 Além disso, apenas em 2011, o STF julgou legal a união civil de pessoas do mesmo gênero. Em 2013, o Conselho Nacional de Justiça [passou a permitir que todos os cartórios registrassem a união homoafetiva](https://g1.globo.com/distrito-federal/noticia/casamento-gay-no-brasil-completa-4-anos-de-regulamentacao-leia-historias.ghtml).
 
@@ -47,14 +49,14 @@ A base de dados do IBGE, porém, é uma exceção positiva nesse levantamento. A
 1.   Mais de 40 mil casamentos homoafetivos foram realizados de 2013 a 2019
 2.  As mulheres definitivamente se casam mais do que os homens
 3.  2014 foi o ano em que o número de casamentos de homens quase ultrapassou o de mulheres
-4.   SP e DF foram as unidades federativas com as maiores taxas de casamentos LGBTs por habitantes adultos;
-5.  Em números absolutos, SP concentra 41,5% dos casamentos, seguido por RJ (9,3%), MG (7,5%) e SC (5,5%). RR, AC e AP têm os menores números.
+4.   SP e DF foram as unidades federativas com as maiores taxas de casamentos LGBTs por habitantes adultos
+5.  Em números absolutos, SP concentra 41,5% dos casamentos, seguido por RJ (9,3%), MG (7,5%) e SC (5,5%). RR, AC e AP têm os menores números
 6.    Estados do Norte e do Nordeste, como MA, RR, AC e RO, aparecem com as menores taxas
 7.   O Sudeste, região mais populosa do Brasil, também foi a região com mais casamentos
 8.   O ano com mais casamentos LGBTs foi 2018, seguido por 2019
 9.   O mês com mais casamentos foi dezembro; e o mês com menos foi abril
 10.   Os meses próximos à eleição de Jair Bolsonaro foram os picos de casamentos LGBTS
-11.   Os dados apontam que os casais homoafetivos seguiram [a recomendação da presidente da Comissão Especial da Diversidade Sexual e de Gênero do Conselho Federal da OAB, Maria Berenice Dias](https://g1.globo.com/sp/sao-paulo/noticia/2018/11/07/casamento-lgbt-cresce-25-no-pais-diz-associacao-profissionais-oferecem-servicos-gratuitos-para-celebracoes.ghtml), para os casais procurarem assegurar o matrimônio ainda em 2018.
+11.   Os dados apontam que os casais homoafetivos seguiram [a recomendação da presidente da Comissão Especial da Diversidade Sexual e de Gênero do Conselho Federal da OAB, Maria Berenice Dias](https://g1.globo.com/sp/sao-paulo/noticia/2018/11/07/casamento-lgbt-cresce-25-no-pais-diz-associacao-profissionais-oferecem-servicos-gratuitos-para-celebracoes.ghtml), para os casais procurarem assegurar o matrimônio ainda em 2018
 
 ### Análise Exploratória de Dados
 ### Projeto aplicado
