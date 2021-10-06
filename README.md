@@ -1,4 +1,4 @@
-# Casamento LGBT no Brasil e no mundo
+# Casamento LGBT no Brasil
 
 Este repositório contém o projeto final da disciplina "Análise exploratória de dados", no Master em jornalismo dados, automação e data storytelling do Insper
 
