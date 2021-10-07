@@ -9,7 +9,7 @@ Ou seja, do casamento de homens com homens e de mulheres com mulheres.
 
 Os dados estão desagregados por UF, mês e gênero e abrangem os anos de 2013 a 2019. Assim, poderemos fazer uma análise exploratória de dados completa e responder às perguntas de interesse.                   
 
-[Notebook - Clique aqui](https://github.com/gabrielacaesar/lgbt_casamento/blob/main/notebooks/versao_final_trabalho_AED_insper_grupo_GIT.ipynb) para ler e baixar o arquivo.
+[Notebook - Clique aqui](https://github.com/gabrielacaesar/lgbt_casamento/blob/main/notebooks/versao_final_trabalho_AED_insper_grupo_GIT.ipynb) para ler e baixar o arquivo.            
 [CSV - Clique aqui](https://github.com/gabrielacaesar/lgbt_casamento/blob/main/data/lgbt_casamento.csv) para ler e baixar o arquivo.
 
 O IBGE fornece os dados em diversas planilhas XLSX desorganizadas.
